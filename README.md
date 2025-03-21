@@ -3,10 +3,10 @@
 ## How to use
 
 1. Follow
-   [Trello API Introduction]
-   (https://developer.atlassian.com/cloud/trello/guides/rest-api/api-introduction/) to create Trello authentication key and token.
+   [Trello API Introduction](https://developer.atlassian.com/cloud/trello/guides/rest-api/api-introduction/)
+   to create Trello authentication key and token.
 
-2. Put this in your docker compose file:
+3. Put this in your docker compose file:
 
 ```yaml
 trello-backup:
